@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Mobile application"
+title: "Mobile banking"
 header: no
 categories:
   - making
 caption: Διαφάνειες για το κεφάλαιο εφαρμογές
 slides:
   - mobile notes
-  - bank
+  - mobile banking
   - instagram
   - facebook
   - games 

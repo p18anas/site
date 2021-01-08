@@ -4,9 +4,8 @@ title: "Mobile application"
 header: no
 categories:
   - making
-caption: 
-  - Οι εφαρμογές διευκολίνουν τον χρήστη σε θέμα χρόνου και ποιότητας αφού είναι πιο εύκολα προσβάσιμες και πιο γρήγορες.
-tags:
+caption: Διαφάνειες για το κεφάλαιο εφαρμογές
+slides:
   - mobile notes
   - bank
   - instagram

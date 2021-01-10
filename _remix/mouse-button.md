@@ -17,6 +17,6 @@ tags:
   MWjqyLR</a> by p18anas (<a href="https://codepen.io/p18anas">@p18anas</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://codepen.io/p18anas/pen/MWjqyLR"></script>
 Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού "ANOTHER". Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
 
